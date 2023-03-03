@@ -1,11 +1,15 @@
 # README
 
 ## Français
-Voila un joli readme
+Voila un joli README
 
 ## English
-This is a beautiful readme
+This is a beautiful README
 
 ## Espanol
 
-Esta una magnifica readme
+Esta una magnifica README
+
+## Deutsch
+
+Hier ist ein schönes README
